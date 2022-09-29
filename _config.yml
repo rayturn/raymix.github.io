@@ -16,7 +16,8 @@
 title: RayMix - 技之路，艺之道
 email: ray@raymix.net
 description: >- # this means to ignore newlines until "baseurl:"
-  You cannot improve your past, but you can improve your future. Once time is wasted, life is wasted.
+<p> <a href="https://beian.miit.gov.cn">鲁ICP备 18046452号-1</a> </p>
+<p>  You cannot improve your past, but you can improve your future. Once time is wasted, life is wasted. </p>
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: rayturn
