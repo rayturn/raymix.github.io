@@ -21,7 +21,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: rayturn
 github_username:  rayturn
-beian: 鲁ICP备 18046452号-1
+beian: 鲁ICP备18046452号-1
 
 # Build settings
 markdown: kramdown
